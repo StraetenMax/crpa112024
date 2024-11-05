@@ -11,16 +11,16 @@
   <mj-body background-color="#dddddd" width="650px">
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-text>Voir la version en ligne | Se desincrire de la liste de diffusion</mj-text>
+        <mj-text align="center">Voir la version en ligne | Se desincrire de la liste de diffusion</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#002467">
       <mj-column>
         <mj-image> </mj-image>
-        <mj-text>Boostez votre trésorerie dès aujourd'hui !</mj-text>
-        <mj-text>Nous récupérons chaque année des milliers d'impayés de toute nature.</mj-text>
-        <mj-text>Notre société vous propose les solutions adaptées à vos besoins.</mj-text>
-        <mj-text>Confiez nous le recouvrement de vos factures impayées</mj-text>
+        <mj-text mj-class="cJ">Boostez votre trésorerie dès aujourd'hui !</mj-text>
+        <mj-text color="#ffffff">Nous récupérons chaque année des milliers d'impayés de toute nature.</mj-text>
+        <mj-text color="#ffffff">Notre société vous propose les solutions adaptées à vos besoins.</mj-text>
+        <mj-text mj-class="cB">Confiez nous le recouvrement de vos factures impayées</mj-text>
       </mj-column>
       <mj-column>
         <mj-image></mj-image>
@@ -29,28 +29,28 @@
     <mj-section background-color="#ffffff">
       <mj-column background-color="#ffd400">
         <mj-image></mj-image>
-        <mj-text>Recouvrement de créances</mj-text>
+        <mj-text mj-class="cB">Recouvrement de créances</mj-text>
       </mj-column>
       <mj-column background-color="#ffd400">
         <mj-image></mj-image>
-        <mj-text>Relances précontentieuses à votre nom</mj-text>
+        <mj-text mj-class="cB">Relances précontentieuses à votre nom</mj-text>
       </mj-column>
       <mj-column>
         <mj-image></mj-image>
-        <mj-text>Visite à domicile</mj-text>
+        <mj-text mj-class="cB">Visite à domicile</mj-text>
         <mj-image></mj-image>
-        <mj-text>Procédure amiable et judiciaire</mj-text>
+        <mj-text mj-class="cB">Procédure amiable et judiciaire</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-text>Pour plus d'informations, contactez-nous dès maintenant !</mj-text>
+      <mj-column width="100%">
+        <mj-text align="center" mj-class="cB">Pour plus d'informations, contactez-nous dès maintenant !</mj-text>
       </mj-column>
       <mj-column>
-        <mj-text>03 81 88 22 36</mj-text>
+        <mj-text mj-class="cB">03 81 88 22 36</mj-text>
       </mj-column>
       <mj-column>
-        <mj-text>contact@crpa.fr</mj-text>
+        <mj-text mj-class="cB">contact@crpa.fr</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#002467">
