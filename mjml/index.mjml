@@ -1,0 +1,67 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Boostez votre trésorie</mj-title>
+    <mj-attributes>
+      <mj-class name="cB" color="#002467"/>
+      <mj-class name="cJ" color="#ffd400"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#dddddd">
+    <mj-section>
+      <mj-column>
+        <mj-text>Voir la version en ligne | Se desincrire de la liste de diffusion</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image> </mj-image>
+        <mj-text>Boostez votre trésorerie dès aujourd'hui !</mj-text>
+        <mj-text>Nous récupérons chaque année des milliers d'impayés de toute nature.</mj-text>
+        <mj-text>Notre société vous propose les solutions adaptées à vos besoins.</mj-text>
+        <mj-text>Confiez nous le recouvrement de vos factures impayées</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image></mj-image>
+        <mj-text>Recouvrement de créances</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image></mj-image>
+        <mj-text>Relances précontentieuses à votre nom</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image></mj-image>
+        <mj-text>Visite à domicile</mj-text>
+        <mj-image></mj-image>
+        <mj-text>Procédure amiable et judiciaire</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Pour plus d'informations, contactez-nous dès maintenant !</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>03 81 88 22 36</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>contact@crpa.fr</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>www.crpa.fr</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Se désinscrire de la liste de diffusion</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
