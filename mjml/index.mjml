@@ -8,13 +8,13 @@
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
-  <mj-body background-color="#dddddd">
-    <mj-section>
+  <mj-body background-color="#dddddd" width="650px">
+    <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text>Voir la version en ligne | Se desincrire de la liste de diffusion</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#002467">
       <mj-column>
         <mj-image> </mj-image>
         <mj-text>Boostez votre trésorerie dès aujourd'hui !</mj-text>
@@ -26,12 +26,12 @@
         <mj-image></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffd400">
         <mj-image></mj-image>
         <mj-text>Recouvrement de créances</mj-text>
       </mj-column>
-      <mj-column>
+      <mj-column background-color="#ffd400">
         <mj-image></mj-image>
         <mj-text>Relances précontentieuses à votre nom</mj-text>
       </mj-column>
@@ -42,7 +42,7 @@
         <mj-text>Procédure amiable et judiciaire</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text>Pour plus d'informations, contactez-nous dès maintenant !</mj-text>
       </mj-column>
@@ -53,14 +53,14 @@
         <mj-text>contact@crpa.fr</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#002467">
       <mj-column>
-        <mj-text>www.crpa.fr</mj-text>
+        <mj-text align="center" color="#ffffff" text-transform="uppercase">www.crpa.fr</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-text>Se désinscrire de la liste de diffusion</mj-text>
+        <mj-text align="center">Se désinscrire de la liste de diffusion</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
