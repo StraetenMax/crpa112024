@@ -7,6 +7,7 @@
       <mj-class name="cJ" color="#ffd400"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
+    <mj-style>@import url("https://use.typekit.net/saz8jys.css");</mj-style>
   </mj-head>
   <mj-body background-color="#dddddd" width="650px">
     <mj-section background-color="#ffffff">
@@ -16,8 +17,8 @@
     </mj-section>
     <mj-section background-color="#002467">
       <mj-column>
-        <mj-image src="https://ext.lb-lg.fr/CRPA/images/logo.png" alt=""></mj-image>
-        <mj-text mj-class="cJ">Boostez votre trésorerie dès aujourd'hui !</mj-text>
+        <mj-image align="left" width="153px" src="https://ext.lb-lg.fr/CRPA/images/logo.png" alt=""></mj-image>
+        <mj-text mj-class="cJ" font-size="32px">Boostez votre trésorerie dès aujourd'hui !</mj-text>
         <mj-text color="#ffffff">Nous récupérons chaque année des milliers d'impayés de toute nature.</mj-text>
         <mj-text color="#ffffff">Notre société vous propose les solutions adaptées à vos besoins.</mj-text>
         <mj-text mj-class="cB">Confiez nous le recouvrement de vos factures impayées</mj-text>
