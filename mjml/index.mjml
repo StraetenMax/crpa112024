@@ -19,10 +19,10 @@
       <mj-column>
         <mj-spacer height="20px" container-background-color="#ffffff"></mj-spacer>
         <mj-image padding="25px 20px 0 20px" align="left" width="153px" src="https://ext.lb-lg.fr/CRPA/images/logo.png" alt=""></mj-image>
-        <mj-text padding="25px 20px 0 20px" mj-class="cJ" font-family="museo, arial" font-style="normal" font-size="32px" font-weight="700" line-height="100%">Boostez votre trésorerie dès aujourd'hui !</mj-text>
-        <mj-text padding="10px 20px 0 20px" font-family="museo, serif" font-style="normal" font-size="16px" font-weight="500" line-height="120%" color="#ffffff">Nous récupérons chaque année des milliers d'impayés de toute nature.</mj-text>
-        <mj-text padding="0px 20px" font-family="museo, serif" font-style="normal" font-size="16px" font-weight="500" line-height="120%" color="#ffffff">Notre société vous propose les solutions adaptées à vos besoins.</mj-text>
-        <mj-text mj-class="cB">Confiez nous le recouvrement de vos factures impayées</mj-text>
+        <mj-text padding="25px 20px 0 20px" mj-class="cJ" font-family="Museo, Arial" font-style="normal" font-size="32px" font-weight="700" line-height="100%">Boostez votre trésorerie dès aujourd'hui !</mj-text>
+        <mj-text padding="10px 20px 0 20px" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="500" line-height="120%" color="#ffffff">Nous récupérons chaque année des milliers d'impayés de toute nature.</mj-text>
+        <mj-text padding="0px 20px" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="500" line-height="120%" color="#ffffff">Notre société vous propose les solutions adaptées à vos besoins.</mj-text>
+        <mj-button padding="20px 20px 25px 20px" inner-padding="16px" mj-class="cB" background-color="#ffd400" border-radius="0" font-family="Museo, Arial" font-style="normal" font-size="14px" font-weight="700" line-height="120%" text-transform="uppercase">Confiez nous le recouvrement de vos factures impayées</mj-button>
       </mj-column>
       <mj-column>
         <mj-image padding="0" border="0" src="https://ext.lb-lg.fr/CRPA/images/banner2.jpg" alt=""></mj-image>
@@ -31,17 +31,17 @@
     <mj-section background-color="#ffffff" padding="30px 20px 0 20px">
       <mj-column background-color="#ffd400">
         <mj-image padding="0" border="0" src="https://ext.lb-lg.fr/CRPA/images/img11.jpg" alt=""></mj-image>
-        <mj-text align="center" mj-class="cB" font-family="museo, arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Recouvrement de créances</mj-text>
+        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Recouvrement de créances</mj-text>
       </mj-column>
       <mj-column background-color="#ffd400">
         <mj-image padding="0" border="0" src="https://ext.lb-lg.fr/CRPA/images/img12.jpg" alt=""></mj-image>
-        <mj-text align="center" mj-class="cB" font-family="museo, arial" font-style="normal" font-size="16px" fon-weight="700" line-height="21px">Relances précontentieuses à votre nom</mj-text>
+        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Relances précontentieuses à votre nom</mj-text>
       </mj-column>
       <mj-column>
         <mj-image width="40px" src="https://ext.lb-lg.fr/CRPA/images/p5.png" alt=""></mj-image>
-        <mj-text mj-class="cB">Visite à domicile</mj-text>
+        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Visite à domicile</mj-text>
         <mj-image width="40px" src="https://ext.lb-lg.fr/CRPA/images/p6.png" alt=""></mj-image>
-        <mj-text mj-class="cB">Procédure amiable et judiciaire</mj-text>
+        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Procédure amiable et judiciaire</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
