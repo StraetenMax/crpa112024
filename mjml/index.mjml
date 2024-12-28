@@ -25,23 +25,29 @@
         <mj-button padding="20px 20px 25px 20px" inner-padding="16px" mj-class="cB" background-color="#ffd400" border-radius="0" font-family="Museo, Arial" font-style="normal" font-size="14px" font-weight="700" line-height="120%" text-transform="uppercase">Confiez nous le recouvrement de vos factures impayées</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" border="0" src="https://ext.lb-lg.fr/CRPA/images/banner2.jpg" alt=""></mj-image>
+        <mj-image padding="0" border="0" fluid-on-mobile="true" src="https://ext.lb-lg.fr/CRPA/images/banner2.jpg" alt=""></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="30px 20px 0 20px">
-      <mj-column background-color="#ffd400">
-        <mj-image padding="0" border="0" src="https://ext.lb-lg.fr/CRPA/images/img11.jpg" alt=""></mj-image>
-        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Recouvrement de créances</mj-text>
+      <mj-column background-color="#ffd400" width="31.111111%" vertical-align="middle">
+        <mj-image padding="0" border="0" fluid-on-mobile="true" src="https://ext.lb-lg.fr/CRPA/images/img11.jpg" alt=""></mj-image>
+        <mj-text align="center" padding="23px 0" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Recouvrement de créances</mj-text>
       </mj-column>
-      <mj-column background-color="#ffd400">
-        <mj-image padding="0" border="0" src="https://ext.lb-lg.fr/CRPA/images/img12.jpg" alt=""></mj-image>
-        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Relances précontentieuses à votre nom</mj-text>
+      <mj-column width="20px" vertical-align="middle">
+        <mj-spacer></mj-spacer>
       </mj-column>
-      <mj-column>
-        <mj-image width="40px" src="https://ext.lb-lg.fr/CRPA/images/p5.png" alt=""></mj-image>
-        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Visite à domicile</mj-text>
-        <mj-image width="40px" src="https://ext.lb-lg.fr/CRPA/images/p6.png" alt=""></mj-image>
-        <mj-text align="center" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Procédure amiable et judiciaire</mj-text>
+      <mj-column background-color="#ffd400" width="31.111111%" vertical-align="middle">
+        <mj-image padding="0" border="0" fluid-on-mobile="true" src="https://ext.lb-lg.fr/CRPA/images/img12.jpg" alt=""></mj-image>
+        <mj-text align="center" padding="12px 10px" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Relances précontentieuses à votre nom</mj-text>
+      </mj-column>
+      <mj-column width="20px" vertical-align="middle">
+        <mj-spacer></mj-spacer>
+      </mj-column>
+      <mj-column width="31.111111%" vertical-align="middle">
+        <mj-image padding="0" border="0" width="40px" src="https://ext.lb-lg.fr/CRPA/images/p5.png" alt=""></mj-image>
+        <mj-text align="center" padding="8px 10px 20px 10px" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Visite à domicile</mj-text>
+        <mj-image padding="0" border="0" width="40px" src="https://ext.lb-lg.fr/CRPA/images/p6.png" alt=""></mj-image>
+        <mj-text align="center" padding="8px 10px 0 10px" mj-class="cB" font-family="Museo, Arial" font-style="normal" font-size="16px" font-weight="700" line-height="21px">Procédure amiable et judiciaire</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
